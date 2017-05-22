@@ -1,10 +1,10 @@
 # Tools Checklist
 
 ## Communication
-[ ] Skype
-[ ] Slack
+- [ ] Skype
+- [ ] Slack
 
 ## Development
-[ ] Git
-[ ] VIm
-[ ] VirtualBox (or other virtualization tool)
+- [ ] Git
+- [ ] VIm
+- [ ] VirtualBox (or other virtualization tool)
