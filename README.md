@@ -1,10 +1,14 @@
 # Tools Checklist
 
-## Communication
+### Communication
 - [ ] Skype
 - [ ] Slack
 
-## Development
+### Development
 - [ ] Git
 - [ ] VIm
 - [ ] VirtualBox (or other virtualization tool)
+
+### Others
+- [ ] Dropbox
+
