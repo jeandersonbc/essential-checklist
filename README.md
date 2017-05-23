@@ -10,7 +10,7 @@
 * Git
 * VIm
 * VirtualBox (or other virtualization tool)
-* Docker
+* Docker (including Docker Machine)
 
 ### Others
 * Dropbox
