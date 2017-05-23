@@ -12,3 +12,5 @@
 ### Others
 - [ ] Dropbox
 
+## Gnome 3
+- [ ] [Gnome Extensions](https://extensions.gnome.org/)
