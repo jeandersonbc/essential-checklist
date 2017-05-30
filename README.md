@@ -12,6 +12,10 @@
 * VirtualBox (or other virtualization tool)
 * Docker (including Docker Machine)
 
+### Statistics
+* R
+* ggplot2
+
 ### Others
 * Dropbox
 
